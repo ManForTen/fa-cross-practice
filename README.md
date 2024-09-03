@@ -1,5 +1,7 @@
-![image](/Users/manforten/Downloads/fa_cross/fa-cross-practice/Снимок экрана 2024-09-03 в 13.01.38.png)
-![image](Снимок экрана 2024-09-03 в 13.02.45.png)
+<img width="1397" alt="Снимок экрана 2024-09-03 в 13 02 45" src="https://github.com/user-attachments/assets/d5936776-71ec-420d-bfdf-1b46b8b308e9">
+
+<img width="1440" alt="Снимок экрана 2024-09-03 в 13 01 38" src="https://github.com/user-attachments/assets/37f18bdf-9ed0-43d1-8fb2-b7db798d3732">
+
 Фреймворки и библиотеки для кроссплатформенной разработки
 =============================================================================
 
